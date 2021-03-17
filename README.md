@@ -5,7 +5,7 @@
 - Practice writing dynamic components
 - Practice jumping into existing code and making the necessary changes
 
-## Introduction
+## Introduction 
 
 In this lab, you'll write React components and render them dynamically based on
 information they receive from their parent components. This will enable us to use
